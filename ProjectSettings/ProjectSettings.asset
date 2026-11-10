@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 26
+  productName: Hex Wargame WW2
+  companyName: HexWargameStudio
+  applicationIdentifier:
+    Android: com.hexwargame.ww2tactics
+  defaultScreenOrientation: 3
+  useFlipModelSwapchain: 1
+  androidMinSdkVersion: 24
+  androidTargetSdkVersion: 34
+  targetDevice: 2
+  androidTargetArchitectures: 3
+  muteOtherAudioSourcesWithAppFocus: 0

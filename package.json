@@ -1,0 +1,22 @@
+{
+  "name": "com.hexwargame.ww2tactics",
+  "version": "1.0.0",
+  "displayName": "WW2 Hex Tactical Wargame Core",
+  "description": "High-performance 2.5D Hex-based tactical wargame core for Android and Unity. Features realistic armor penetration ballistics, supply & encirclement logistics, Zone of Control (ZoC) A* pathfinding, data-driven JSON unit catalog, tactical AI, and mobile touch camera controls.",
+  "unity": "2022.3",
+  "keywords": [
+    "wargame",
+    "hex-grid",
+    "ww2",
+    "turn-based",
+    "tactical-strategy",
+    "pathfinding",
+    "mobile",
+    "android"
+  ],
+  "author": {
+    "name": "Hex Wargame Studio",
+    "email": "dev@hexwargame.local"
+  },
+  "dependencies": {}
+}
